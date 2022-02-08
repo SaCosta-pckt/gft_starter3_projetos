@@ -1,0 +1,15 @@
+D:\workspace\gft_starter3_projetos\ex_3\bin\Debug\net6.0\ex_3.exe
+D:\workspace\gft_starter3_projetos\ex_3\bin\Debug\net6.0\ex_3.deps.json
+D:\workspace\gft_starter3_projetos\ex_3\bin\Debug\net6.0\ex_3.runtimeconfig.json
+D:\workspace\gft_starter3_projetos\ex_3\bin\Debug\net6.0\ex_3.dll
+D:\workspace\gft_starter3_projetos\ex_3\bin\Debug\net6.0\ref\ex_3.dll
+D:\workspace\gft_starter3_projetos\ex_3\bin\Debug\net6.0\ex_3.pdb
+D:\workspace\gft_starter3_projetos\ex_3\obj\Debug\net6.0\ex_3.csproj.AssemblyReference.cache
+D:\workspace\gft_starter3_projetos\ex_3\obj\Debug\net6.0\ex_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\gft_starter3_projetos\ex_3\obj\Debug\net6.0\ex_3.AssemblyInfoInputs.cache
+D:\workspace\gft_starter3_projetos\ex_3\obj\Debug\net6.0\ex_3.AssemblyInfo.cs
+D:\workspace\gft_starter3_projetos\ex_3\obj\Debug\net6.0\ex_3.csproj.CoreCompileInputs.cache
+D:\workspace\gft_starter3_projetos\ex_3\obj\Debug\net6.0\ex_3.dll
+D:\workspace\gft_starter3_projetos\ex_3\obj\Debug\net6.0\ref\ex_3.dll
+D:\workspace\gft_starter3_projetos\ex_3\obj\Debug\net6.0\ex_3.pdb
+D:\workspace\gft_starter3_projetos\ex_3\obj\Debug\net6.0\ex_3.genruntimeconfig.cache
