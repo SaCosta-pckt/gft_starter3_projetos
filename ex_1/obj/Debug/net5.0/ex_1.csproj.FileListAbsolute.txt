@@ -1,0 +1,16 @@
+D:\workspace\gft_starter3_projetos\ex_1\obj\Debug\net5.0\ex_1.csproj.AssemblyReference.cache
+D:\workspace\gft_starter3_projetos\ex_1\obj\Debug\net5.0\ex_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\gft_starter3_projetos\ex_1\obj\Debug\net5.0\ex_1.AssemblyInfoInputs.cache
+D:\workspace\gft_starter3_projetos\ex_1\obj\Debug\net5.0\ex_1.AssemblyInfo.cs
+D:\workspace\gft_starter3_projetos\ex_1\obj\Debug\net5.0\ex_1.csproj.CoreCompileInputs.cache
+D:\workspace\gft_starter3_projetos\ex_1\bin\Debug\net5.0\ex_1.exe
+D:\workspace\gft_starter3_projetos\ex_1\bin\Debug\net5.0\ex_1.deps.json
+D:\workspace\gft_starter3_projetos\ex_1\bin\Debug\net5.0\ex_1.runtimeconfig.json
+D:\workspace\gft_starter3_projetos\ex_1\bin\Debug\net5.0\ex_1.runtimeconfig.dev.json
+D:\workspace\gft_starter3_projetos\ex_1\bin\Debug\net5.0\ex_1.dll
+D:\workspace\gft_starter3_projetos\ex_1\bin\Debug\net5.0\ref\ex_1.dll
+D:\workspace\gft_starter3_projetos\ex_1\bin\Debug\net5.0\ex_1.pdb
+D:\workspace\gft_starter3_projetos\ex_1\obj\Debug\net5.0\ex_1.dll
+D:\workspace\gft_starter3_projetos\ex_1\obj\Debug\net5.0\ref\ex_1.dll
+D:\workspace\gft_starter3_projetos\ex_1\obj\Debug\net5.0\ex_1.pdb
+D:\workspace\gft_starter3_projetos\ex_1\obj\Debug\net5.0\ex_1.genruntimeconfig.cache
